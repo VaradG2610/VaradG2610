@@ -12,3 +12,12 @@ You can click the Preview link to take a look at your changes.
 Download all of the zip file to make any source code available on screen. 
 If didn't follow the above statement, program may crash or may not work properly. :)
 --->
+
+
+
+
+
+
+Never gonna give you up
+Never gonna let you down
+This ain't rickroll but kind of a motivational message for you. 
